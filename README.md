@@ -14,7 +14,7 @@ below is the screenshot of that app in Android :-
 <p align="center">
     
     
-    <img src="[https://user-images.githubusercontent.com/68633415/132979116-8635b5b6-1b8c-4737-b394-bcfd35779e9e.png](https://user-images.githubusercontent.com/68633415/210743268-a8000472-aa57-45e0-9028-c4035043ca86.jpg)" width="250" height="380" title="hover text">
+    <img src="https://user-images.githubusercontent.com/68633415/210743268-a8000472-aa57-45e0-9028-c4035043ca86.jpg" width="250" height="380" title="hover text">
   <img src="[https://user-images.githubusercontent.com/68633415/132979132-76af21c5-a057-4ac5-9c18-f7a85168a769.png](https://user-images.githubusercontent.com/68633415/210743331-a59c6796-07b3-40a3-81ed-1a27226438b3.jpg)" width="250"height="380"  title="hover text">
  <img src="[https://user-images.githubusercontent.com/68633415/132979133-fe9283d1-db27-4484-8aa6-aa2577f5b70c.png](https://user-images.githubusercontent.com/68633415/210743350-f18082e9-7637-448e-bd0c-b4a3ba0f2d38.jpg)" width="250" height="380" title="hover text">
     
