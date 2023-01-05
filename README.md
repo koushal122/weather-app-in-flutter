@@ -1,16 +1,17 @@
 # weather_app
 
-A new Flutter project.
+This is Weather App which is created in Flutter which can run on Android, iOS and web as well.
+--> By using this app user can fetch temperature of his current location and also he can get weather update of any other city by only
+    city name.
+    
+In this app i have used Flutter packages such as
+ -> http package for networking
+ -> gelocator package for fetching location of user
+ ->spinKit package for different progess icon
 
-## Getting Started
+below is the screenshot of that app in Android :-
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2023-01-05-13-37-53-56_c3995fee05de960e26ec26b8103e34a5](https://user-images.githubusercontent.com/68633415/210743268-a8000472-aa57-45e0-9028-c4035043ca86.jpg)
+![Screenshot_2023-01-05-13-38-25-11_c3995fee05de960e26ec26b8103e34a5](https://user-images.githubusercontent.com/68633415/210743331-a59c6796-07b3-40a3-81ed-1a27226438b3.jpg)
+![Screenshot_2023-01-05-13-38-37-68_c3995fee05de960e26ec26b8103e34a5](https://user-images.githubusercontent.com/68633415/210743350-f18082e9-7637-448e-bd0c-b4a3ba0f2d38.jpg)
