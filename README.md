@@ -13,7 +13,7 @@ below is the screenshot of that app in Android :-
 
 # Main Screen
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/68633415/210749758-008afa6b-c83f-4053-8653-2e0a7a1235e0.jpg" width="250" height="380" title="hover text">
+  <img src="https://user-images.githubusercontent.com/68633415/210749758-008afa6b-c83f-4053-8653-2e0a7a1235e0.jpg" width="250" height="450" title="hover text">
  
 </p>
 
@@ -22,13 +22,13 @@ below is the screenshot of that app in Android :-
 this screen fetch location automatically and show temperature of current location
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/68633415/210749978-ff47890c-e12e-4d96-ae2d-a50b79838535.jpg" width="250"height="380"  title="hover text">
+  <img src="https://user-images.githubusercontent.com/68633415/210749978-ff47890c-e12e-4d96-ae2d-a50b79838535.jpg" width="250"height="450"  title="hover text">
   </p>
  
  # Third screen
  Here we can type Any city name and get weather update of that city 
  <p align="center">
- <img src="https://user-images.githubusercontent.com/68633415/210750093-c70914ee-e851-48f4-851e-4094ca5d9075.jpg" width="250" height="380" title="hover text">
+ <img src="https://user-images.githubusercontent.com/68633415/210750093-c70914ee-e851-48f4-851e-4094ca5d9075.jpg" width="250" height="450" title="hover text">
  </p>
  
  
